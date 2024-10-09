@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&color=hexcode&height=300&section=header&text=Youngoh's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=hexcode&height=300&section=header&text=김영오's%20Github&fontSize=50)
 
 
 <!--
